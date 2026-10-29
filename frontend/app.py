@@ -7,7 +7,7 @@ def home():
     return """
     <html>
     <body>
-        <h1>Loan Processing System</h1>
+        <h1>Loan Processing System - CI/CD Demo</h1>
         <button>Apply Loan</button>
     </body>
     </html>
